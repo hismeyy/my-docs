@@ -1,2 +1,4 @@
-# my-docs
-所有的文档笔记
+# 文档、笔记、记录、想法
+--- docs
+--- docs --- java
+--- docs --- me
